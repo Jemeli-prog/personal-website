@@ -1,5 +1,6 @@
 # Personal Website
 This is a web project for Ruth Kiptoo showcasing my skills, Education background and experience.
+
 ##About Me section with a brief introduction.
 
 ##Skills & Education details.
@@ -12,4 +13,4 @@ This is a web project for Ruth Kiptoo showcasing my skills, Education background
 
 ##HTML for structure
 
-##CSS for stylin
+##CSS for styling
